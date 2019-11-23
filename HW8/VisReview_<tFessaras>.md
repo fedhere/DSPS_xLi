@@ -23,3 +23,8 @@ The fonts and sizes of the letters and numbers are also easy to read.
 
 
 ![XiaoLong Plot](https://raw.githubusercontent.com/xiaolng/DSPS_xLi/master/HW8/wine.png)
+
+# FBB 
+good review, well thought out and argued
+
+100%
